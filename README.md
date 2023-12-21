@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nmoralesgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nmoralesgg" height="30" width="40" /></a>
+<a href="https://devpost.com/nmoralesgg?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nmoralesgg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nohemi-morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nohemi-morales" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@namimorales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@namimorales" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBkVctBX4zl3BoI7dYH1cfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@namimorales" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
