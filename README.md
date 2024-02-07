@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌸, I'm Nohemi Morales</h1>
-<h3 align="center">Full-time sophomore student at Virginia Tech, pursuing a B.S. in Computer Science with a minor in Spanish</h3>
+<h3 align="center">Full-time sophomore student at Virginia Tech, pursuing a B.S. in Computer Engineering with a minor in Spanish</h3>
 
 - 🔭 I’m currently working on **My Personal Website**
 
