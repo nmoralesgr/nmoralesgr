@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nmoralesg@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IBQe8EyyMHEOnx1CydDisrkRn8yRRqNj/view?usp=sharing](https://drive.google.com/file/d/1IBQe8EyyMHEOnx1CydDisrkRn8yRRqNj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KjkugASG-lsy3v6lE1iBt9egKIU46XDu/view?usp=sharing](https://drive.google.com/file/d/1KjkugASG-lsy3v6lE1iBt9egKIU46XDu/view?usp=sharing)
 
 - ⚡ Fun fact **I have a student pilot license**
 
